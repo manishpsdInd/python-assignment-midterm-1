@@ -1,1 +1,1 @@
-# python-assignment-midterm-1
+# python coding practical and assignments
